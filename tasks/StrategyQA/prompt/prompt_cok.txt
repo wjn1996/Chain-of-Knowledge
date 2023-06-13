@@ -1,0 +1,49 @@
+Q: Do hamsters provide food for any animals?
+A: Evidence triples:
+1. (Hamsters, isA, prey animals)
+2. (Prey, is food for, predators)
+3. (hamsters, provide food, animals)
+Explanation hints: Hamsters are prey animals. Prey are food for predators. Thus, hamsters provide food for some animals. 
+So the answer is yes.
+
+Q: Could Brooke Shields succeed at University of Pennsylvania?
+A: Evidence triples:
+1. (Brooke Shields, isA, student)
+2. (student, could succeed, at University of Pennsylvania)
+3. (Brooke Shields, could succeed, at University of Pennsylvania)
+Explanation hints: Brooke Shields is a student. Students could succeed at University of Pennsylvania. Thus, Brooke Shields could succeed at University of Pennsylvania.
+So the answer is yes.
+
+Q: Yes or no: Hydrogen’s atomic number squared exceeds number of Spice Girls?
+A: Evidence triples:
+1. (Hydrogen, has atomic number, 1)
+2. (1, squared is, 1)
+3. (1, exceeds, 5)
+4. (5, is the number of, Spice Girls)
+Explanation hints: Hydrogen has an atomic number of 1. 1 squared is 1. There are 5 Spice Girls. Thus, Hydrogen’s atomic number squared is less than 5. 
+So the answer is no.
+
+Q: Yes or no: Is it common to see frost during some college commencements?
+A: Evidence triples:
+1. (Frost, isA, weather condition)
+2. (Weather condition, is, common during some college commencements)
+3. (Frost, is common, during some college commencements)
+Explanation hints: Frost is a weather condition. Weather conditions are common during some college commencements. Thus, frost is common during some college commencements.
+So the answer is yes.
+
+Q: Yes or no: Could a llama birth twice during War in Vietnam (1945-46)?
+A: Evidence triples:
+1. (Llama, isA, mammal)
+2. (Mammal, gives birth, live young)
+3. (Llama, could give birth, during War in Vietnam)
+Explanation hints: Llamas are mammals. Mammals give birth to live young. Therefore, it is possible for a llama to give birth during the War in Vietnam.
+So the answer is no. 
+
+Q: Yes or no: Would a pear sink in water?
+A: Evidence triples:
+1. (pear, density, 0.6g/cm3)
+2. (water, density, 1.0g/cm3)
+3. (1.0g/cm3, is larger than, 0.6g/cm3)
+4. (pear, can not sink in, water)
+Explanation hints: The density of a pear is about 0.6g/cm3, which is less than water. Objects less dense than water float. Thus, a pear would float. 
+So the answer is no.

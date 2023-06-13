@@ -1,0 +1,87 @@
+Q: Putting a cardboard box in a bin instead of the trash can?
+Answer Choices: (A) conserve energy for later (B) save wild animal species (C) keep it from the trash (D) reduce the height of landfills
+A: Evidence triples:
+1. (cardboard box, isA, item)
+2. (bin, isA, container)
+3. (cardboard box, usage, container)
+4. (trash can, usage, container)
+5. (bin, usage, container)
+Explanation hints: The answer must be an environmental reason. Of the above choices, only (D) are environmental reasons.
+So the answer is (D).
+
+Q: When the needle of a compass lines up with Earth 's magnetic poles , the needle is?
+Answer Choices: (A) pointing east (B) pointing west (C) pointing at arctic (D) pointing to space
+A: Evidence triples:
+1. (compass, is affected by, Earth's magnetic field)
+2. (magnetic field, go, from the south pole to the north pole)
+Explanation hints: The needle of the compass is affected by Earth's magnetic field. The magnetic field lines go from the south pole to the north pole. So, when the needle of the compass is lined up with the Earth's magnetic poles, the needle is pointing north. 
+So the answer is (C).
+
+Q: Which uses gills to breathe?
+Answer Choices: (A) hermit crab (B) human (C) blue whale (D) bluebird
+A: Evidence triples:
+1. (gills, isA, respiratory organ)
+2. (respiratory organ, function, breathing)
+3. (hermit crab, hasA, gills)
+4. (blue whale, hasA, gills)
+5. (bluebird, doesNotHave, gills)
+Explanation hints: The answer must be an item that has gills. Gills are respiratory organs that help with breathing. Of the above choices, only hermit crabs and blue whales have gills.
+So the answer is (A).
+
+Q: Which is the most accurate statement?
+Answer Choices: (A) finches with fat beaks can eat ants in a small anthill (B) finches with narrow beaks can eat only human meat (C) finches with narrow beaks can eat ants in a small anthill (D) finches with fat beaks can eat only human meat
+A: Evidence triples:
+1. (finches, isA, bird)
+2. (bird, hasA, beak)
+3. (finches, hasA, fat beak)
+4. (finches, hasA, narrow beak)
+5. (finches, eats, ants)
+6. (finches, eats, human meat)
+Explanation hints: The answer must be a statement about what finches can eat. Of the above choices, only finches with narrow beaks can eat ants in a small anthill.
+So the answer is (C).
+
+Q: What type of useful product can be made from the moving winds?
+Answer Choices: (A) metal (B) wood (C) bananas (D) electricity
+A: Evidence triples:
+1. (wind, isA, moving air)
+2. (electricity, isA, moving electrons)
+3. (wind, can generate, electricity)
+Explanation hints: The answer must be a type of energy. Of the above choices, only electricity can be made from the moving winds.
+So the answer is (D).
+
+Q: Harriet wants to know the area of a rectangular sheet of paper. Its size is unknown to her. Which one of these will be the only tool that she needs?
+Answer Choices: (A) a ruler (B) a compass (C) a calculator (D) a protractor
+A: Evidence triples:
+1. (area, isA, measurement)
+2. (rectangular sheet of paper, isA, two-dimensional object)
+3. (area, measurement of, two-dimensional object)
+4. (ruler, usage, measuring)
+5. (ruler, usage, measuring length)
+6. (ruler, usage, measuring width)
+7. (area, calculation of, length x width)
+Explanation hints: The answer must be an item that can help Harriet find the area of the rectangular sheet of paper. Of the above choices, only a ruler can help Harriet find the area of the rectangular sheet of paper.
+So the answer is (A).
+
+Q: What uses eyes to see by sensing light?
+Answer Choices: (A) trees (B) algae (C) worms (D) elephants
+A: Evidence triples:
+1. (eyes, isA, organ)
+2. (eyes, usage, seeing)
+3. (eyes, sensing, light)
+4. (trees, usage, photosynthesis)
+5. (algae, usage, photosynthesis)
+6. (worms, usage, burrowing)
+7. (elephants, usage, trampling)
+Explanation hints: The answer must be an entity that uses eyes to see by sensing light. Of the above choices, only trees, algae, and worms use eyes to see by sensing light.
+So the answer is (D).
+
+Q: The cell of a plant when photosynthesizing may most require?
+Answer Choices: (A) access to roofless space (B) a complete vacuum in space (C) a room with blackened windows (D) dark basement living quarters
+A: Evidence triples:
+1. (cell, isA, plant)
+2. (photosynthesis, isA, process)
+3. (cell, requires, photosynthesis)
+4. (photosynthesis, requires, light)
+5. (dark basement living quarters, blocks, light)
+Explanation hints: The cell of a plant when photosynthesizing may most require access to sunlight. Of the above choices, only (A) provides access to sunlight.
+So the answer is (A).
