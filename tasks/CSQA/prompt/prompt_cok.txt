@@ -1,0 +1,67 @@
+Q: What do people use to absorb extra ink from a fountain pen?
+Answer Choices: (A) shirt pocket (B) calligrapher’s hand (C) inkwell (D) desk drawer (E) blotter
+A: Evidence triples:
+1. (fountain pen, isA, item)
+2. (ink, isA, liquid)
+3. (fountain pen, carrier of, liquid)
+4. (fountain pen, usage, writing)
+5. (blotters, usage, writing)
+6. (blotters, absorb, liquid)
+Explanation hints: The answer must be an item that can absorb ink. A fountain pen which is full of liquid can writing on a blotter. Of the above choices, only blotters are used to absorb ink.
+So the answer is (E).
+
+Q: What home entertainment equipment requires cable?
+Answer Choices: (A) radio shack (B) substation (C) television (D) cabinet
+A: Evidence triples:
+1. (home entertainment equipment, isA, item)
+2. (cable, isA, item)
+3. (home entertainment equipment, requires, cable)
+4. (television, isA, home entertainment equipment)
+5. (television, requires, cable)
+Explanation hints: The answer must be an item of home entertainment equipment that requires cable. Of the above choices, only television requires cable.
+So the answer is (C).
+
+Q: The fox walked from the city into the forest, what was it looking for?
+Answer Choices: (A) pretty flowers (B) hen house (C) natural habitat (D) storybook
+A: Evidence triples:
+1. (fox, isA, animal)
+2. (forest, place of residence, animal)
+3. (natural habitat, located in, forest)
+Explanation hints: The answer must be something in the forest. Of the above choices, only natural habitat is in the forest which is the living place for fox animal.
+So the answer is (C).
+
+Q: Sammy wanted to go to where the people were. Where might he go?
+Answer Choices: (A) populated areas (B) race track (C) desert (D) apartment (E) roadblock
+A: Evidence triples:
+1. (Sammy, isA, person)
+2. (populated areas, place of residence, people)
+Explanation hints: Sammy is a person, so that the answer must be a place with a lot of people. Of the above choices, only populated areas have a lot of people.
+So the answer is (A).
+
+Q: Where do you put your grapes just before checking out?
+Answer Choices: (A) mouth (B) grocery cart (C) super market (D) fruit basket (E) fruit market
+A: Evidence triples:
+1. (checking out, isA, action)
+2. (checking out, place of take place, mall)
+3. (grapes, isA, merchandise)
+4. (mall, sell, fruit)
+5. (grocery cart, usage, hold merchandise before checking out)
+Explanation hints: The answer should be the place where grocery items are placed before checking out. Of the above choices, grocery cart makes the most sense for holding grocery items.
+So the answer is (B).
+
+Q: Google Maps and other highway and street GPS services have replaced what?
+Answer Choices: (A) united states (B) mexico (C) countryside (D) atlas
+A: Evidence triples:
+1. (Google Maps, isA, webapp)
+2. (GPS, isA, navigation systems)
+3. (atlas, usage, navigation)
+Explanation hints: The answer must be something that used to do what Google Maps and GPS services do, which is to give directions. Of the above choices, only atlases are used to give directions.
+So the answer is (D).
+
+Q: Before getting a divorce, what did the wife feel who was doing all the work?
+Answer Choices: (A) harder (B) anguish (C) bitterness (D) tears (E) sadness
+A: Evidence triples:
+1. (wife, feel bitterness, doing all the work)
+2. (getting divorced, reason, wife doing all the work)
+Explanation hints: The answer should be the feeling of someone getting divorced who was doing all the work. Of the above choices, the closest feeling is bitterness.
+So the answer is (C).

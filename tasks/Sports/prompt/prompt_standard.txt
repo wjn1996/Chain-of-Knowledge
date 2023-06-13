@@ -1,0 +1,17 @@
+Q: Is the following sentence plausible? 'Fernando Tatis Jr. walked on ball four.'
+A: The answer is yes.
+
+Q: Is the following sentence plausible? 'Jayson Tatum was caught offsides in the Champions Leage Semifinal.'
+A: The answer is no.
+
+Q: Is the following sentence plausible? 'Marouane Fellaini scored in extra time.'
+A: The answer is yes.
+
+Q: Is the following sentence plausible? 'Gerrit Cole committed a handball in the European Cup.'
+A: The answer is no.
+
+Q: Is the following sentence plausible? 'Klaas Jan Huntelaar scored the easy layup.'
+A: The answer is no.
+
+Q: Is the following sentence plausible? 'Mario Gomez earned a direct kick.'
+A: The answer is yes.

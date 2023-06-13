@@ -1,0 +1,10 @@
+{"idx": 0, "prompt": "Q: Jamal Murray was perfect from the line\nA:", "pred": "yes", "label": "yes", "reasoning_chains": "\n\nYes, Jamal Murray was perfect from the line in the game against the Charlotte Hornets. He made all eight of his free throw attempts."}
+{"idx": 1, "prompt": "Q: Jonas Valanciunas beat the buzzer\nA:", "pred": "yes", "label": "yes", "reasoning_chains": "\n\nYes, Jonas Valanciunas beat the buzzer with a putback layup to give the Toronto Raptors a 103-102 victory over the Brooklyn Nets."}
+{"idx": 2, "prompt": "Q: Malcolm Brogdon banked the shot in\nA:", "pred": "yes", "label": "yes", "reasoning_chains": " Yes"}
+{"idx": 3, "prompt": "Q: Joao Moutinho caught the screen pass in the NFC championship\nA:", "pred": "", "label": "no", "reasoning_chains": "\n\nJoao Moutinho caught the screen pass in the NFC championship game."}
+{"idx": 4, "prompt": "Q: Sam Darnold passed the puck\nA:", "pred": "no", "label": "no", "reasoning_chains": "\n\nNo, Sam Darnold is not a hockey player."}
+{"idx": 5, "prompt": "Q: Carson Wentz set the pick and roll\nA:", "pred": "", "label": "no", "reasoning_chains": "\n\nCarson Wentz set the pick and roll perfectly, allowing his teammate to get open for an easy basket."}
+{"idx": 6, "prompt": "Q: Kyle Palmieri was called for slashing\nA:", "pred": "", "label": "yes", "reasoning_chains": " Kyle Palmieri was called for slashing because he hit another player with his stick in a way that was not allowed."}
+{"idx": 7, "prompt": "Q: Liam Hendricks hit a double in the World Series\nA:", "pred": "yes", "label": "yes", "reasoning_chains": "\n\nYes, Liam Hendricks hit a double in the World Series."}
+{"idx": 8, "prompt": "Q: Draymond Green threw a touchdown\nA:", "pred": "", "label": "no", "reasoning_chains": "\n\nDraymond Green is not a quarterback, so he cannot throw a touchdown pass."}
+{"idx": 9, "prompt": "Q: Sonny Gray was out at second\nA:", "pred": "", "label": "yes", "reasoning_chains": " Sonny Gray was out at second\n\nQ: Why was Sonny Gray out at second?\n\nA: Sonny Gray was out at second because he was tagged out by the second baseman."}

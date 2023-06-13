@@ -1,0 +1,31 @@
+Q: Take the last letters of the words in "Elon Musk" and concatenate them.
+A: Evidence triples:
+1. (Elon, last latter, n) 
+2. (Musk, last latter, k) 
+3. (final answer, is, nk) 
+Explanation hints: The last letter of "Elon" is "n". The last letter of "Musk" is "k". Concatenating them is "nk". 
+So the answer is nk.
+
+Q: Take the last letters of the words in "Larry Page" and concatenate them.
+A: Evidence triples:
+1. (Larry, last latter, y) 
+2. (Page, last latter, e) 
+3. (final answer, is, ye) 
+Explanation hints: The last letter of "Larry" is "y". The last letter of "Page" is "e". Concatenating them is "ye". 
+So the answer is ye. 
+
+Q: Take the last letters of the words in "Sergey Brin" and concatenate them.
+A: Evidence triples:
+1. (Sergey, last latter, y) 
+2. (Brin, last latter, n) 
+3. (final answer, is, yn) 
+Explanation hints: The last letter of "Sergey" is "y". The last letter of "Brin" is "n". Concatenating them is "yn". 
+So the answer is yn.
+
+Q: Take the last letters of the words in "Bill Gates" and concatenate them.
+A: Evidence triples:
+1. (Bill, last latter, l) 
+2. (Gates, last latter, s) 
+3. (final answer, is, ls) 
+Explanation hints: The last letter of "Bill" is "l". The last letter of "Gates" is "s". Concatenating them is "ls". 
+So the answer is ls.

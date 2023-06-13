@@ -1,0 +1,29 @@
+Q: Is the following sentence plausible? 'Fernando Tatis Jr. walked on ball four.'
+A: A walk is when the batter reaches first base without hitting the ball. 
+Reaching first base can happen a few ways, but one of them is by the pitcher throwing four balls. 
+So the answer is yes.
+
+Q: Is the following sentence plausible? 'Jayson Tatum was caught offsides in the Champions Leage Semifinal.'
+A: Jayson Tatum is not a professional soccer player.
+The sentence might not be plausible.
+So the answer is no.
+
+Q: Is the following sentence plausible? 'Marouane Fellaini scored in extra time.'
+A: It is possible for Marouane Fellaini to score.
+Is it possible for him to score in extra time.
+So the answer is yes.
+
+Q: Is the following sentence plausible? 'Gerrit Cole committed a handball in the European Cup.'
+A: Gerrit Cole is a person. A handball is an object. 
+The European Cup is an event.
+So the answer is no.
+
+Q: Is the following sentence plausible? 'Klaas Jan Huntelaar scored the easy layup.'
+A: someone doesn't pass the basketball to Klaas Jan Huntelaar? 
+It's implausible that he would score an easy layup.
+So the answer is no.
+
+Q: Is the following sentence plausible? 'Mario Gomez earned a direct kick.'
+A:  Mario Gomez is a person. He can do things like earn things. 
+A direct kick is also a thing. It's possible that Mario Gomez earned a direct kick.
+So the answer is yes.
